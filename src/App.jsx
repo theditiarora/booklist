@@ -3,7 +3,7 @@ import { pendingList} from './WantToRead'
 function App() {
 
   return (
-    <div className="p-5 h-screen w-screen bg-[url(./soft-gradient.png)]">
+    <div className="p-5 h-screen w-screen bg-[url(./soft-gradient.png)] bg-cover">
       <h1 className='text-lg'>All the books i've read.</h1> 
 
       <div className='mt-5'>
