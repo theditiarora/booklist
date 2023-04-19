@@ -1,4 +1,3 @@
-import './App.css'
 import { list } from './List'
 import { pendingList} from './WantToRead'
 function App() {
