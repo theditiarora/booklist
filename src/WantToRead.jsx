@@ -1,10 +1,10 @@
 export const pendingList = [
     "sherlock homes series",
     "The guest list",
-    "Writing bad is easy",
+    "The catcher in the rye",
     "before the coffee gets cold",
-    "the summer i turned pretty",
-    "norwegian woods",
+    "Tuesday with Morrie",
     "kafka on the shore",
     "Dune",
+    "The girl in the room 105",
 ]
