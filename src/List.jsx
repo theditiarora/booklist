@@ -12,5 +12,6 @@ export const list = [
     "Show your work - Austin Kloen",
     "Looking for Alaska - John Green",
     "Thousand Splendid Suns - Khalid Hoesseni",
-    "The fault in our stars - John Green"
+    "The fault in our stars - John Green",
+    "To Kill a Mockingbird - Harper Lee"
 ]
